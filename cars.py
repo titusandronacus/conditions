@@ -5,6 +5,3 @@ for car in cars:
         print(car.upper())
     else:
         print(car.title())
-
-is_car_bmw = car == 'bmw'
-print(is_car_bmw)
